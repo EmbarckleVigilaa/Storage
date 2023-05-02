@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to left,rgb(124, 182, 124),rgb(105, 233, 233));
+       
+}
+.inputbox{
+    width: 50%;
+    height: 50%;
+}
